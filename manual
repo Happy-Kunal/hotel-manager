@@ -1,0 +1,17 @@
+# manual is a .txt file which shows which function is under which thing
+# fun_ is a sign convention to show that it is a "function" which is called in main.py
+
+main.py :
+|	|menu buttons:
+|	|	
+|	|	about.py
+|
+|	fun_checkin.py
+|
+|	fun_checkout.py :
+|	|	bill.py
+|	|	remove.py
+|
+|	fun_viewall.py
+
+manual.txt
